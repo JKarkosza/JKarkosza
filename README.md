@@ -10,7 +10,6 @@ I build on WordPress at a systems level - custom plugins, data integrations, and
  
 - Building out custom WordPress plugins with a focus on clean architecture and real-world use cases
 - Deepening my understanding of REST API design and backend data patterns
-- Turning professional experience into portfolio projects worth pointing to
 
 ---
  
