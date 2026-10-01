@@ -1,6 +1,6 @@
 # Hi, I'm Jakub 👋
  
-I've spent 7+ years deep in WordPress building custom plugins, designing data sync systems, and integrating external APIs. I care a lot about writing code that's predictable and maintainable, not just code that works today.
+I've spent 7+ years deep in WordPress building custom plugins, themes, designing data sync systems, and integrating external APIs. I care a lot about writing code that's predictable and maintainable, not just code that works today.
  
 I build on WordPress at a systems level - custom plugins, data integrations, and API layers rather than page builders and off-the-shelf themes. Lately I've been expanding further into backend patterns and REST API design.
  
